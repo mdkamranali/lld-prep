@@ -4,9 +4,13 @@ A collection of LLD problems with clean Java implementations, UML diagrams, and 
 
 ## Problems
 
-| # | Problem       | Patterns Used                  | Link                        |
-|---|---------------|--------------------------------|-----------------------------|
-| 1 | Parking Lot   | Strategy, Factory              | [parking-lot](./parking-lot)|
+## 🚀 Low-Level Design (LLD) Problems
+
+| # | Problem | Patterns Used | Link |
+|:-:|:---|:---|:---|
+| 1 | Parking Lot | Strategy, Factory | [parking-lot](./parking-lot) |
+| 2 | Library Management System | Singleton, Factory, Strategy | [library-management-system](./library-management-system) |
+| 3 | Vending Machine | State, Chain of Responsibility | [vending-machine](./vending-machine) |
 
 ---
 
