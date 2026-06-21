@@ -1,6 +1,6 @@
 # Low Level Design — Interview Prep
 
-A collection of LLD problems with clean Java implementations, UML diagrams, and flow explanations.
+A collection of LLD problems with clean Java implementations
 
 ## Problems
 
