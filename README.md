@@ -6,11 +6,15 @@ A collection of LLD problems with clean Java implementations
 
 ## 🚀 Low-Level Design (LLD) Problems
 
+Here is the updated table with the **Coffee Machine** and **Snake and Ladder** problems added, including their respective design patterns and links based on the structure you provided.
+
 | # | Problem | Patterns Used | Link |
-|:-:|:---|:---|:---|
-| 1 | Parking Lot | Strategy, Factory | [parking-lot](./parking-lot) |
-| 2 | Library Management System | Singleton, Factory, Strategy | [library-management-system](./library-management-system) |
-| 3 | Vending Machine | State, Chain of Responsibility | [vending-machine](./vending-machine) |
+| --- | --- | --- | --- |
+| 1 | Parking Lot | Strategy, Factory | [parking-lot](https://www.google.com/search?q=./parking-lot) |
+| 2 | Library Management System | Singleton, Factory, Strategy | [library-management-system](https://www.google.com/search?q=./library-management-system) |
+| 3 | Vending Machine | State, Chain of Responsibility | [vending-machine](https://www.google.com/search?q=./vending-machine) |
+| 4 | Coffee Machine | State, Strategy, Factory | [coffee-machine](https://www.google.com/search?q=./coffee-machine) |
+| 5 | Snake and Ladder | Strategy, Command | [snake-and-ladder](https://www.google.com/search?q=./snake-and-ladder) |
 
 ---
 
