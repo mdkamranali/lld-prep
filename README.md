@@ -6,6 +6,7 @@ A collection of LLD problems with clean Java implementations
 
 ## 🚀 Low-Level Design (LLD) Problems
 
+
 | # | Problem | Patterns Used | Link |
 | --- | --- | --- | --- |
 | 1 | Parking Lot | Strategy, Factory | [parking-lot](https://github.com/mdkamranali/lld-prep/tree/main/parking-lot) |
@@ -13,6 +14,7 @@ A collection of LLD problems with clean Java implementations
 | 3 | Vending Machine | State, Chain of Responsibility | [vending-machine](https://github.com/mdkamranali/lld-prep/tree/main/vending-machine) |
 | 4 | Coffee Machine | State, Strategy, Factory | [coffee-machine](https://github.com/mdkamranali/lld-prep/tree/main/coffee-machine) |
 | 5 | Snake and Ladder | Strategy, Command | [snake-and-ladder](https://github.com/mdkamranali/lld-prep/tree/main/snake-and-ladder) |
+| 6 | Tic Tac Toe | Strategy, Observer | [tic-tac-toe](https://github.com/mdkamranali/lld-prep/tree/main/tic-tac-toe) |
 
 ---
 
