@@ -15,6 +15,11 @@ A collection of LLD problems with clean Java implementations
 | 4 | Coffee Machine | State, Strategy, Factory | [coffee-machine](https://github.com/mdkamranali/lld-prep/tree/main/coffee-machine) |
 | 5 | Snake and Ladder | Strategy, Command | [snake-and-ladder](https://github.com/mdkamranali/lld-prep/tree/main/snake-and-ladder) |
 | 6 | Tic Tac Toe | Strategy, Observer | [tic-tac-toe](https://github.com/mdkamranali/lld-prep/tree/main/tic-tac-toe) |
+| 7 | Meeting Scheduler | Observer | [meeting-scheduler](https://github.com/mdkamranali/lld-prep/blob/main/MeetingSchedulerApp.java) |
+
+
+
+
 
 ---
 
