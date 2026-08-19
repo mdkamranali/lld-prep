@@ -17,6 +17,7 @@ A collection of LLD problems with clean Java implementations
 | 6 | Tic Tac Toe | Strategy, Observer | [tic-tac-toe](https://github.com/mdkamranali/lld-prep/tree/main/tic-tac-toe) |
 | 7 | Meeting Room Scheduler | Observer, Controller | [meeting-room-scheduler](https://github.com/mdkamranali/lld-prep/tree/main/meeting-room-scheduler) |
 | 8 | Elevator System | Strategy, State | [elevator-system](https://github.com/mdkamranali/lld-prep/tree/main/elevator-system) |
+| 9 | ATM System | State, Chain of Responsibility | [atm-system](https://github.com/mdkamranali/lld-prep/tree/main/atm-system) |
 
 
 
