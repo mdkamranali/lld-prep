@@ -19,6 +19,7 @@ A collection of LLD problems with clean Java implementations
 | 8 | Elevator System | Strategy, State | [elevator-system](https://github.com/mdkamranali/lld-prep/tree/main/elevator-system) |
 | 9 | ATM System | State, Chain of Responsibility | [atm-system](https://github.com/mdkamranali/lld-prep/tree/main/atm-system) |
 | 10 | Movie Booking System (BookMyShow) | Controller, Facade, Optimistic Concurrency Control | [movie-booking-system](https://github.com/mdkamranali/lld-prep/tree/main/movie-booking-system) |
+| 11 | Splitwise | Strategy, Facade, Controller | [splitwise](https://github.com/mdkamranali/lld-prep/tree/main/splitwise) |
 
 
 
@@ -29,8 +30,3 @@ A collection of LLD problems with clean Java implementations
 > Each folder contains:
 > - `src/Main.java` — full working code
 > - `README.md`     — UML diagram + end-to-end flow explanation
->
->  I have a GitHub repo at https://github.com/mdkamranali/lld-prep for storing LLD problems. Structure is one folder per problem, each with 
-    Main.java
-
- and README.md (UML + flow). Add [problem name] LLD to this repo and push it.
