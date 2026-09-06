@@ -20,6 +20,7 @@ A collection of LLD problems with clean Java implementations
 | 9 | ATM System | State, Chain of Responsibility | [atm-system](https://github.com/mdkamranali/lld-prep/tree/main/atm-system) |
 | 10 | Movie Booking System (BookMyShow) | Controller, Facade, Optimistic Concurrency Control | [movie-booking-system](https://github.com/mdkamranali/lld-prep/tree/main/movie-booking-system) |
 | 11 | Splitwise | Strategy, Facade, Controller | [splitwise](https://github.com/mdkamranali/lld-prep/tree/main/splitwise) |
+| 12 | Cricbuzz | Strategy, Observer, Facade | [cricbuzz](https://github.com/mdkamranali/lld-prep/tree/main/cricbuzz) |
 
 
 
