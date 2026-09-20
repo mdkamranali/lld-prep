@@ -22,6 +22,7 @@ A collection of LLD problems with clean Java implementations
 | 11 | Splitwise | Strategy, Facade, Controller | [splitwise](https://github.com/mdkamranali/lld-prep/tree/main/splitwise) |
 | 12 | Cricbuzz | Strategy, Observer, Facade | [cricbuzz](https://github.com/mdkamranali/lld-prep/tree/main/cricbuzz) |
 | 13 | Car Rental System | Facade, Controller, Composition | [car-rental-system](https://github.com/mdkamranali/lld-prep/tree/main/car-rental-system) |
+| 14 | Logging Library | Chain of Responsibility, Observer, Singleton | [logging-library](https://github.com/mdkamranali/lld-prep/tree/main/logging-library) |
 
 
 
