@@ -69,3 +69,9 @@ java Main
 
 The demo prints the starting board, shows several illegal moves being refused,
 then plays Fool's mate (the fastest checkmate in chess) and undoes it.
+
+<img width="2114" height="1364" alt="image" src="https://github.com/user-attachments/assets/ff85380a-ee14-4f91-826e-34eadeb3f731" />
+
+
+<img width="2170" height="1430" alt="image" src="https://github.com/user-attachments/assets/3d7ec258-3c37-4633-9201-d267a816f97f" />
+
