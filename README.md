@@ -24,6 +24,7 @@ A collection of LLD problems with clean Java implementations
 | 13 | Car Rental System | Facade, Controller, Composition | [car-rental-system](https://github.com/mdkamranali/lld-prep/tree/main/car-rental-system) |
 | 14 | Logging Library | Chain of Responsibility, Observer, Singleton | [logging-library](https://github.com/mdkamranali/lld-prep/tree/main/logging-library) |
 | 15 | Inventory Management System | Facade, Controller, Strategy | [inventory-management-system](https://github.com/mdkamranali/lld-prep/tree/main/inventory-management-system) |
+| 16 | Chess Game | Strategy, Command (Undo), Polymorphism | [chess-game](https://github.com/mdkamranali/lld-prep/tree/main/chess-game) |
 
 
 
